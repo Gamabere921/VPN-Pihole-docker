@@ -27,7 +27,7 @@ Con este proyecto, podrás navegar de forma cifrada, privada y libre de anuncios
 
 ## Tutorial de uso
 
-1. Clonamos el repositorio con `git clone [https://github.com/Gamabere921/VPN-Pihole-docker.git](https://github.com/Gamabere921/VPN-Pihole-docker.git)`
+1. Clonamos el repositorio con `git clone [https://github.com/Gamabere921/VPN-Pihole-docker.git]`
 2. Entramos a la carpeta.
 3. Configuramos las variables **PEERS** y **WEBPASSWORD** del docker-compose.yml a nuestro gusto.
 4. Ejecutamos el comando `docker-compose up -d` para levantar los servicios
