@@ -11,6 +11,7 @@ services:
       - PUID=1000
       - PGID=1000
       - TZ=America/Mexico_City
+      - SERVERURL= # IP fija o DNS dinámico
       - SERVERPORT=51820 #optional
       - PEERS=2 #numero de dispositivos permitidos
       - PEERDNS=auto #optional
